@@ -3,6 +3,8 @@ Türkiye'nin güncel İl, İlçe ve mahalle bilgilerinin yer aldığı SQL dosya
 
 SQL veritabanınıza kolaylıkla ekleyebilir, sonrasında istediğiniz düzenlemeleri yapabilirsiniz.
 
+MySQL için yeni eklenmiş CSV dosyasını kullanabilirsiniz.
+
 UstID sütunu '0' olan kayıtlar illeri, UstID bilgisi sıfırdan farklı olan veriler ise ilgili UstID'ye bağlı birimi gösterir.
 
 Örneğin,
