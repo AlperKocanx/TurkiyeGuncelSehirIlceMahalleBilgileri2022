@@ -1,7 +1,7 @@
 # TurkiyeGuncelSehirIlceMahalleBilgileri2022
 Türkiye'nin güncel İl, İlçe ve mahalle bilgilerinin yer aldığı SQL dosyasıdır. İlçe ve Mahallelerin koodinat bilgilerini de içerir.
 
-SQL veritabanınıza kolaylıkla ekleyebilir, sonrasında istediğiniz düzenlemeleri yapabilirsiniz.
+RAR dosyasının içindeki dosyadan SQL veritabanınıza kolaylıkla ekleyebilir, sonrasında istediğiniz düzenlemeleri yapabilirsiniz.
 
 MySQL için yeni eklenmiş CSV dosyasını kullanabilirsiniz.
 
